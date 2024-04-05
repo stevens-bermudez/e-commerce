@@ -1,21 +1,26 @@
-
 # ShoeApp
+
 ShoeApp is a web application project that showcases a collection of shoes available for purchase, featuring a newsletter sign-up form with a success message upon subscribing.
 
-# Technologies Used
--React.js: For building the user interface.
--CSS: For styling the application.
--HTML: Basic markup for the page structure.
+## Technologies Used
+
+- React.js: For building the user interface.
+- CSS: For styling the application.
+- HTML: Basic markup for the page structure.
+
 ## Installation
+
 1. Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/ShoeApp.git
+
+   ```bash
+   git clone https://github.com/yourusername/ShoeApp.git
 Navigate to the project directory:
+
 bash
 Copy code
 cd ShoeApp
 Install dependencies:
+
 bash
 Copy code
 npm install
