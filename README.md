@@ -27,7 +27,7 @@ npm install
 Usage
 Once you have installed the dependencies, you can start the application with the following command:
 
-bash
+bash.
 Copy code
 npm start
 or
